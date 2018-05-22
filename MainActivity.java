@@ -10,8 +10,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
-// comment added
-    // another comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
